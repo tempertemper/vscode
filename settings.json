@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "OperatorMono-Light, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "workbench.preferredDarkColorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.tips.enabled": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.padding.bottom": 200,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 16,
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "workbench.editor.showIcons": false,
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 72
+    }
+}
