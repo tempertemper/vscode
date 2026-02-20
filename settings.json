@@ -1,28 +1,51 @@
 {
-    "editor.fontFamily": "OperatorMono-Light, Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 18,
-    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
-    "files.trimTrailingWhitespace": true,
-    "files.trimFinalNewlines": true,
-    "files.insertFinalNewline": true,
-    "workbench.preferredDarkColorTheme": "Monokai Pro (Filter Spectrum)",
-    "workbench.tips.enabled": false,
-    "editor.scrollBeyondLastLine": false,
-    "editor.padding.bottom": 200,
-    "workbench.tree.renderIndentGuides": "none",
-    "workbench.tree.indent": 16,
-    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
-    "workbench.editor.showIcons": false,
-    "[markdown]": {
-        "editor.wordWrap": "wordWrapColumn",
-        "editor.wordWrapColumn": 72
-    },
-    "files.defaultLanguage": "html",
-    "git.decorations.enabled": false,
-    "workbench.editor.decorations.badges": false,
-    "workbench.editor.decorations.colors": false,
-    "workbench.editorAssociations": {
-    "*.svg": "default"
-    },
-    "editor.wordWrap": "on"
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.preferredDarkColorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "workbench.editor.showIcons": false,
+  "workbench.tips.enabled": false,
+
+  "editor.fontFamily": "'OperatorMono-Book', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 18,
+  "editor.wordWrap": "on",
+  "editor.scrollBeyondLastLine": false,
+  "editor.padding.bottom": 200,
+
+  "files.defaultLanguage": "html",
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+
+  "git.decorations.enabled": false,
+  "workbench.editor.decorations.badges": false,
+  "workbench.editor.decorations.colors": false,
+
+  "workbench.tree.indent": 16,
+  "workbench.tree.renderIndentGuides": "none",
+
+  "workbench.editorAssociations": {
+    "*.svg": "text"
+  },
+
+  "terminal.integrated.fontFamily": "OperatorMono-Light",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.letterSpacing": 0,
+  "terminal.integrated.scrollback": 10000,
+
+  "workbench.colorCustomizations": {
+    "terminal.background": "#111111"
+  },
+
+  "[markdown]": {
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 72
+  },
+  "[css]": {
+    "editor.hover.enabled": false
+  },
+  "[scss]": {
+    "editor.hover.enabled": false
+  }
 }
