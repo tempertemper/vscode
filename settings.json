@@ -24,7 +24,7 @@
   "workbench.tree.renderIndentGuides": "none",
 
   "workbench.editorAssociations": {
-    "*.svg": "text"
+    "*.svg": "default"
   },
 
   "terminal.integrated.fontFamily": "OperatorMono-Light",
