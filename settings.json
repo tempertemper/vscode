@@ -40,7 +40,9 @@
 
   "[markdown]": {
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 72
+    "editor.wordWrapColumn": 72,
+    "editor.tabSize": 2,
+    "editor.wrappingIndent": "indent"
   },
   "[css]": {
     "editor.hover.enabled": false
