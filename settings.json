@@ -5,7 +5,8 @@
   "workbench.editor.showIcons": false,
   "workbench.tips.enabled": false,
 
-  "editor.fontFamily": "'OperatorMono-Book', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontWeight": "400",
   "editor.fontSize": 18,
   "editor.wordWrap": "on",
   "editor.scrollBeyondLastLine": false,
@@ -27,9 +28,10 @@
     "*.svg": "default"
   },
 
-  "terminal.integrated.fontFamily": "OperatorMono-Light",
+  "terminal.integrated.fontFamily": "Operator Mono",
+  "terminal.integrated.fontWeight": "300",
+  "terminal.integrated.fontWeightBold": "500",
   "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.lineHeight": 1.2,
   "terminal.integrated.letterSpacing": 0,
   "terminal.integrated.scrollback": 10000,
@@ -45,9 +47,9 @@
     "editor.wrappingIndent": "indent"
   },
   "[css]": {
-    "editor.hover.enabled": false
+    "editor.hover.enabled": "off"
   },
   "[scss]": {
-    "editor.hover.enabled": false
+    "editor.hover.enabled": "off"
   }
 }
