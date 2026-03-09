@@ -35,21 +35,20 @@
   "terminal.integrated.lineHeight": 1.2,
   "terminal.integrated.letterSpacing": 0,
   "terminal.integrated.scrollback": 10000,
-
   "workbench.colorCustomizations": {
     "terminal.background": "#111111"
   },
 
   "[markdown]": {
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 72,
-    "editor.tabSize": 2,
-    "editor.wrappingIndent": "indent"
+    "editor.wordWrapColumn": 72
   },
   "[css]": {
     "editor.hover.enabled": "off"
   },
   "[scss]": {
     "editor.hover.enabled": "off"
-  }
+  },
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false
 }
